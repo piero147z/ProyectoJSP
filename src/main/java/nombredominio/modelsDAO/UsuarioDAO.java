@@ -13,6 +13,8 @@ import java.util.ArrayList;
 public class UsuarioDAO {
 
 	Conexion conectar = new Conexion();
+	//asdlksadksañldksalñdksadñlaskdlñakd
+	
 
 	Connection conn;
 	PreparedStatement ps;
